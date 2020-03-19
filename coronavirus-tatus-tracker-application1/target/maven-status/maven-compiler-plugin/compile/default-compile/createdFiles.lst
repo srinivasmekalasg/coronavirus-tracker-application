@@ -1,0 +1,4 @@
+com\main\srini\CoronavirusTatusTrackerApplication1Application.class
+com\main\srini\model\LocationStats.class
+com\main\srini\controller\HomeController.class
+com\main\srini\services\CoronaVirusDataService.class
